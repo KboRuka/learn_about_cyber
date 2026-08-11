@@ -1,0 +1,124 @@
+first topic 
+Your Study plant 
+
+	You just got this book you have probably already read the introduction . So your are probably now wondering whether to start reading here or skip it ahead to chapter 1 "Introduction to TCP/IP Networking".
+	คุณอาจจะพึ่งได้หนังสือเล่มนี้มาหรือเริ่มอ่านส่วนบทนำไปแล้ว คุณอาจจะเริ่มสงสัยว่าจะเริ่มอ่านจากตรงนี้เลยหรือข้าวไปบทที่ 1 เลยดี 
+
+	Please stop to read this section about how to create your own study plan for the CCNA 200-301 , exam. Your study will go much better if you take time to think about a few key point about how to study before starting on this journey. That's what this section will help you do  
+	ได้โปรดชะลอลงอีกนิดเพทาออ่านส่วนนี้เกี่ยวกับการสร้างแผนการเรียนของคูณสำหรับ CCNA 200-301 , การเรียนของคุณจะดีกว่ามากถ้าคุณคิดเกี่ยวกับจุดสำคัญบางอย่างเกี่ยวกับวิธีการเรียนก่อนที่จะเริ่มต้น ในส่วนนี้จะทำให้คุณทำสิ่งนั้นได้
+
+
+
+	A Brief Perspective on Cisco Certification Exams
+	มุมมองเล็กๆเกี่ยวกับการสอบใบรับรอง CISCO
+	
+	CISCO set the bar pretty heigh for passing the CCNA 200-301 exam. Most anyone can study and pass the exam, but it takes more than just a quick read through the book and the cash to pay for the exam.
+	CISCO ตั้งมาตรฐานเอาไว้สูงพอสมควรสำหรับการสอบผ่าน CCNA 200-301 ใครๆก็สามารถเรียนรู้แล้วสอบผ่านได้ แต่ไม่ไช่แค่อ่านชั่วครู่แล้วจ่ายเงินค่าสอบเท่านั้น 
+
+	The challenge of the exam comes from many angles. First, the exam covers a lot of concepts and many commands specific to CISCO devices . Beyond knowledge, all the Cisco exams also require deep skill. You , must be able to analyze and predict what really happens in a network, and you must be able to configure Cisco devices to work correctly in those network
+	ความท้าทายของการสอบมาจากคำถามหลากหลายวิชา ก่อนอื่นเลยการสอบคลอบคลุมแนวคิดจำนวนมากและคำสั่งที่หลากหลายคำสั่งเฉพาะกับอุปกรณ์ CISCO นอกเหนือจากความรู้แล้ว การสอบของ CISCO ยังต้องการทักษะเชิงลึก ต้องสามารถวิเคราะห์และคาดเดาสิ่งที่จะเกิดขึ้นจริงๆในระบบเครือข่าย และต้องสามารถตั้งค่าอุปกรณ์ Cisco ให้สามารถทำงานได้ในระบบเครือข่ายเหล่านั้น
+
+	The more Challenging question on these exams work a lot like a jigsaw puzzle, but with four out of every five puzzle pieces not even in the room. To solve the puzzle, you have to mentally re-create the missing pieces. To do that, you must know each network concept and remember how the concept work together. 
+	คำถามที่ท้าทายมากขึ้นในการสอบเหล่านี้ทำงานเหมือนกับ " จิ๊กซอว์ " สี่ในห้าชิ้นไม่ได้อยุ่ในห้องเรียนเลย ในการแก้ไขปริศนานั้นคุณต้องสร้างชิ้นส่วนที่หายไปขึ้นมาในใจของคุณเอง เพื่อทำแบบนั้นคุณต้องมีความรู้เกี่ยวกับแนวคิดเครือข่ายแต่ละอย่างและจดจำได้ว่าแนวคิดนั้นทำร่วมกันอย่างไร
+
+	For instance, you might encounter a question that asks you why two routers cannot For instance, you might encounter a question that asks you why two routers cannot exchange routing information using the OSCP routing protocol 
+	ตัวอย่างเช่น คุณอาจจะเจอคพถามที่ว่า"ทำไมเราเตอร์สองตัวไม่สามารถแลกเปลี่ยนข้อมูลการกำหนดเส้นทางโดยใช้โปรโตคอล OSPF 
+	
+	The Question would supply some of the information, like some pieces of the jigsaw puzzle , as represented with the white pieces in Figure 1 . you have to apply your knowledge of IPv4 routing, IP4 addressing , and the OSPF protocol to the scenario in the question to come up with some of the other pieces of the puzzle.
+	คำถามนี้จะให้ข้อมูลบางส่วนแก่คุณเหมือนชิ้นส่วนของจิ๊กซอว์ ซึ่งแสดงด้วยชิ้นสีขาวในรูปที่ 1 คุณต้องใช้ความรู้เกี่ยวกับการกำหนดเส้นทาง IPv4, ที่อยุ่ IPv4 และโปรโตคอล OSPF มาประยุกต์กับสถานการณ์ในคำถามเพื่อหาชิ้นส่วนอื่นๆของปริศนา
+
+	For a given question, some pieces of the puzzle might remain a mystery but with enough of the puzzle filled in you should be able to answer the question. and some pieces will just remain unknow for a given question 
+	สำหรับคำถามของแต่ละข้อ ชิ้นส่วนบางชิ้นอาจยังคงเป็๋นปริศนา แต่เมื่อเติมชิ้นส่วนมากพอแล้วจะสามารถตอบคำถามนั้นได้ แต่บางชิ้นก็ยังคงเป็นความลับต่อไป 
+
+	these skill require that you prepare by doing more than just reading and memorizing. Of course , you need to read many individual facts and how these facts relate to each other. But a big part of this book lists exercises that require more than just simply reading , exercises that help you build the skill to solve these networking puzzle 
+	ทักษะเหล่านี้ต้องการให้คุณเตรียมตัวโดยทำมากกว่าการอ่านและท่องจำ แน่นอนว่าคุณต้องอ่านหลายหน้าของหนังสือเล่มนี้ เพื่อเรียนรู้ข้อเท็จจริงต่างๆ ว่าแต่ละข้อเท็จจริงเกี่ยวข้องกันอย่างไร ส่วนสำคัญของหนังสือเล่มนี้มีการระบุแบบฝึกหัดที่ต้องทำมากกว่าแค่การอ่านธรรมดา แบบฝึกหัดเหล่านี้ทำให้คุณมีทักษะในการแก้ไขปริศนาด้านเน็ตเวิร์ค
+
+
+
+	Five Study Plan Steps 
+	What do you need to do to be ready to pass, beyond reading and remembering all the facts? You need to develops skills . You need to mentally link each idea with other related ideas 
+	5ขั้นตอนในการวางแผนการเรียน
+	คุณต้องทำอะไรบ้านให้พร้อมผ่าน ไม่ไช่แค่อ่านและคำทุกข้อเท็จจริง คุณต้องพัฒนาทักษะ คุณต้องเชื่อมโยงแต่ละแนวคิดแนวคิดทางจิตใจและแนวคืดอื่นที่เกี่ยวข้อง
+	
+	Doing that requires additional work. To help you along the way , the next few page give you five key planning steps to take so that you can more effectively build those skills and make those connections , before you dive inti thus exciting but challenging world of learning networking on cisco gear 
+	การทำเช่นนั้นต้องใช้ความพยายามในการเรียนรู้สิ่งใหม่ตลอดทาง ไม่กี่หน้าถัดไปจะบอกคุณ 5 ขั้นตอนสำคัญในการวางแผนเพื่อให้คุณสามารถพัฒนาทักษะเหล่านี้และสร้างการเชื่อมโยงเหล่านั้นได้อย่างมีประสิทธิภาพ ก่อนที่คุณจะเข้าสู่โลกของการเรีนนรูปเครือข่ายอุปกรณ์ของ Cisco ที่ท้าทายและน่าตื่นเต้นนี้
+
+	Step 1: Think in Terms of Plarts and Chapters
+	 The first step in your study plan is to get the right mindset about the size and nature of the task you have set out to accomplish. Thos os a large book, and to be ready for the CCNA 200-301 exam, you need to complete it and the the CCNA 200-301 Official Cert Guide , Volum2
+	ขั้นตอนที่ 1 : คิดในแง่ของส่วนและบทต่างๆ
+	  ขั้นตอนแรกในแผนการเรียนของคุณคือปรับความคิดให้ถูกต้องเกี่ยวกับขนาดและลักษณะของงานที่คุณตั้งใจจะทำให้สำเร็จ หนังสือเล่มใหญ่นี้และเพื่อให้พร้อมสำหรับการสอบ CCNA 200-301 ต้องอ่านเล่มนี้ให้จบแล้วจึงอ่าน CCNA 200-301 Official Cert Guide เล่ม 2 ให้จบ
+	 
+	You cannot think about these two books as one huge task, or might get discouraged. So break the task down into smaller task
+	คุณไม่สามรถคิดว่าหนังสือสองเล่มนี้เป็นงานใหญ่ชิ้นเดียวได้ ไมงั้นได้ท้อแท้แน่ๆ เพราะงั้นควรแบ่งออกเป็นงานย่อยๆ
+
+	The good new here is that the book is designed with obvious breakpoints and built-in extensive review activities. In short, the book is more of a study system than a book.
+	ข่าวดีก็คือ หนังสือเล่มนี้ได้รับการออกแบบโดยมีจุดแบ่งที่ชัดเจนและมีกิจกรรมทบทวนที่ครอบคลุมอยุ่ภายใน กล่าวโดยสรุปคือหนังสือเล่มนี้เป็นระบบการเรียนรู้มากกว่าแค่หนังสือเรียนเล่มใหญ่
+
+	The first step in your study plan is to visualize this book not as one large book but as components.
+	ขั้นตอนแรกในแผนการเรียนของคุณคือการมองหนังสือเล่มนี้ไม่ไช่ฐานะหนังสือเล่มใหญ่แต่เป็นส่วนยิบย่อยที่หลากหลาย
+
+	First, visualize the book as eight smaller parts. then, within each part, visualize each part as three or four chapters. You study plan has you working through the chapter in each part and then reviewing the material in that part before moving on, as show in figure 2. 
+	Now your plan has the following : 
+	1Large task: Read and master all content in the book.
+	9medium task/book: Read and master a part
+	4small tasks/part : Read and master a chapter
+	ขั้นแรก ให้มองหนังสือเป็นส่วนเล็กๆแปดส่วน จากนั้นค่อยๆเริ่มให้จบไปทีละส่วนย่อยๆ จะบท 3 หรือบท 4 แล้วทบทวนเนื้อหาในส่วนนั้นก่อนที่จะไปยังส่วนถัดไปดังแสดงในรูปที่ 2 เพราะงั้น
+	ตอนนี้แผนก็คือ 
+	1งานระยะยาว : อ่านและทำความเข้าใจเนื้อหาทั้งหมดในหนังสือ
+	8งานระยะกลาง : อ่านและทำความเข้าใจเชื่อมโยงบทบาทของบทแต่ละบท
+	4งานขนาดเล็กกก : อ่านและเข้าใจบท1บท
+
+	Step 2 : Build Your Study Habits Around the Chapter 
+	For your second step , possibly the most important step, approach each chapter 
+	with the same process as shown in figure 3
+	ขั้นตอนที่ 2 : สร้างนิสัยการเรียนของคุณให้สอดคล้องกับบทเรียน
+	สำหรับขั้นตอนที่สอง ซึ่งอาจจะเป็นส่วนที่สำคัญที่สุด
+	ให้ใช้กระบวนการเดียวกับที่แสดงในรูปที่ 3
+
+	The chapter pre-quiz(called a DIKIT quiz, or " DO I KNOW THIS ALREADY?" quiz) helps you decidehow much time to spend reading versus skimming , the core of the chapter , called the "Foundation topic." The "Chapter Review " section then gives you instruction about how to study and review what you just read 
+	ในการเรียนแต่ละบทเรียน แบบทสสอบก่อนเรียน(เรียกว่าแบบทสสอบ DIKTA หรือแบบทสสอบ " ฉันรู้เรื่องนี้อยุ่แล้วไช่ไหมนะ . . . " จะช่วยให้คุณตัดสินใจได้ว่าควรใช้เวลาอ่านหรือแค่อ่านผ่านๆ ในส่วนสำคัญมากน้อยแค่ไหน ซึ่งถูกเรียกว่า " หัวข้อพื้นฐาน " จากนั้นส่วน " การทบทวนบทเรียน  " จะให้คำแนะนำเกี่ยวกับวิธีเรียนและทบทวนสิ่งที่คุณพึ่งอ่านไป 
+
+	The book has no long chapters , on purpose They average about 20 page for the Foundation Topic (which is the part of the chapter with new content). Because we kept the size reasonable, you can complete all of a chapter in one to two short study sessions.
+	หนังสือเล่มนี้ตั้ฝใจให้ไม่มีบทที่ยาวเกินไป โดยแต่ละบทมีความยาวที่ 20 หน้า สำหรับหัวข้อพื้นฐาน(ซึ่งเป็นส่วนของบทที่มีเนื้อหาใหม่) เนื่องจากเรารักษาระดับขนาดให้เหมาะสม ผู้อ่านสามารถอ่านจบทั้งหมดได้ในหนึ่งหรือสองครั้งในการอ่านแต่ละครั้ง 
+
+	For instance , when you begin a new chapter , if you have an hour or an hour and a half , you should be able to complete a first reading of the chapter and at least make a grate start on it . And even if you do not have enough time to read the entire chapter , look for the major headings inside the chapter ; each chapter has two to three major headings , and those make a great place to stop reading when you need to wait to complete the reading in the next study session . 
+	ตัวอย่างเช่น เมื่อคุณเริ่มบทใหม่หากคุฯมีเวลา 1 ชั่วโมงหรือ 1 ชั่วโมงครึ่ง คุณน่าจะสามารอ่านบทนั้นจบในรอบแรกและนับว่าเป็นการเริ่มต้นที่ดี แม้ว่าคุณจะไม่มีเวลาเพียงพอที่จะอ่านทั้งหท ให้มองที่หัวข้อหลักในบทนั้นๆ จะมีหัวข้อหลัก 2-3 หัวข้อ และหัวข้อเหล่านั้นเป็นจุดหยุดอ่านที่ดีหรือเมื่อต้องการเริ่มการอ่าานครั้งต่อไป
+
+	The chapter Review tasks are very important to your exam-day success . Doing these tasks after you've read the chapter really does help you get ready. Do not put off using these tasks until later!
+	แบบฝึกหัดทบทวนทบเรียนมีความสำคัญอย่างยิ่งต่อความสำเร็จในวันสอบ การทำแบบฝึกหัดเหล่านี้ หลังจากที่คุณอ่านบทเรียนจบแล้ว จะช่วยให้คุณเตรียมตัวได้ดีขึ้น  อย่าเลื่อนผ่านแบบฝึกหัดเหล่านั้นเพื่อทำที่หลัง!
+	
+	The chapter-ending review tasks help you with the first phase of Deeping you knowledge and skills of the key topic remembering terms, and linking the concepts together in your brain so you can remember how it all fits together.
+	แบบฝึกหัดทบทวนท้ายบทจะช่วยคุณในขั้นตอนแรกของการเพิ่มพูนความรู้และทักษะ ในหัวข้อสำคัญ การจดจำศัพท์ และการเชื่อมโยงแนวคิดเข้ากันด้วยสมองขอคุณ เพื่อให้คุณจำได้ว่าทุกอย่างเชื่อมโยงกันอย่างไร
+
+	The following list describes most of the activities you will find in the " Chapter Review" section:
+	-Review key topic
+	-Review key terms 
+	-Answer the DIKTA questions
+	-Re-create config checklists
+	-Review command table
+	-Review memory tables
+	-Do lab exercise
+	-Watch video
+	-Do subnetting exercises
+	รายการต่อไปนี้ อธิบายกิจกรรมส่วนใหญ่ที่คุณจะพบในส่วน"แบบฝึกหัดทบทวนบทรียน"
+	-ทบทวนหัวข้อสำคัญ
+	-ทบทวนคำศัพท์สำคัญ
+	- ตอบคำถาม DIKIT
+	-สร้างรายการตรวจสอบการกำหนดค่าใหม่
+	-ทบทวนตารางคำสั้่ง
+	-ทบทวนตารางหน่วยความจำ
+	-ทำแบบฝกึหัดในห้องปฎิบัตการ
+	-ดูวิดิโอ
+	-ทำแบบฝึกหัดการแบ่งซับเน็ต
+	test
+	
+
+	
+	
+
+
+
+
+
+
+
